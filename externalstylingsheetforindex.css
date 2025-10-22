@@ -2,7 +2,7 @@ body{
     background:linear-gradient(to bottom, rgb(16, 182, 242),yellow);
 }
 h1{
-    color: rgb(221, 70, 29);
+    color: rgb(37, 91, 13);
     text-align: center;
     background: linear-gradient(to top, rgb(33, 202, 188), white);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -12,10 +12,10 @@ h1{
 li{
     font-style: italic;
 }
-.div1:hover{
+.div1{
     font-family:cursive ;
     color: orangered;
-    text-decoration: underline black;
+    
 }
 .c2{
     text-shadow: 1px 1px 2px black;
@@ -25,6 +25,8 @@ li{
         height: 80px;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         font-weight: 600;
+        border-radius: 25px;
+        margin-bottom: 100px;
 }
 .c3{
     height: 100px;
