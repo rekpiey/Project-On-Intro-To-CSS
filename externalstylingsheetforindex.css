@@ -8,6 +8,8 @@ h1{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: rgb(90, 70, 70) solid 2px;
     border-radius: 30px;
+    position: sticky;
+    top: 0;
 }
 li{
     font-style: italic;
@@ -57,4 +59,8 @@ a > button{
     border: solid 2px darkorange;
     border-radius: 10px;
     cursor: pointer;
+}
+fieldset{
+    border-radius: 20px;
+    border: solid black;
 }
