@@ -3,6 +3,8 @@ fieldset{
     border: transparent 3px;
     border-radius: 40px;
     padding-right: 1px;
+    width: 470px;
+    margin: auto;
     
 }
 legend{
