@@ -64,3 +64,34 @@ fieldset{
     border-radius: 20px;
     border: solid black;
 }
+.img1{
+    margin-right: 400px;
+}
+.col-1 {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 8.33%; /* This is the width of col-1 in Bootstrap */
+    overflow-y: auto;
+}
+
+.col-11 {
+    margin-left: 8.33%; /* This offsets the content to prevent overlap */
+}
+#tabs{
+            position: absolute;
+            /* or fixed, depending on your needs */
+            top: 0;
+            /* Adjust as needed */
+            left: 0;
+            /* Start from the left edge */
+            width: 100%;
+            /* Cover the entire width */
+            background-color: grey;
+            /* Set your desired background color */
+            margin: 0;
+            /* Remove any margin */
+            padding: 0;
+            /* Remove any padding */
+
+    }
